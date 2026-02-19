@@ -5,7 +5,7 @@ Turn daily journaling into measurable personal growth
 
 This project is a structured journaling and productivity analysis app built with Streamlit.
 It allows users to write daily journals, store them by date, segment thoughts meaningfully, and analyze emotional & productivity patterns over time.
-
+## App : https://journal-uxy4amofztpg39oumsz8mz.streamlit.app/
 ## 🚀 Key Features
 ### 📝 Daily Journaling
 
