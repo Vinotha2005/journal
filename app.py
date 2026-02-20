@@ -126,7 +126,8 @@ elif menu == "❓ Ask Questions":
 
     q = st.text_input("Ask a question", placeholder="When did I use zapier?")
     if st.button("Search"):
-        results = answer_question(question)
+        results = answer_question(q)
+
         if not results:
             st.info("No matching entries found")
         else:
